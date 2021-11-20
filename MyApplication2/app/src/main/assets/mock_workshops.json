@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Workshop 1",
+    "desc": "taller central",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png"
+  },
+  {
+    "title": "Workshop 2",
+    "desc": "taller auxiliar de centro de medellin",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png"
+  },
+  {
+    "title": "Workshop 3",
+    "desc": "Taller papamotos",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png"
+  }
+
+]
